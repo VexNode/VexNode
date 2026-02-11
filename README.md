@@ -13,10 +13,16 @@
 
 ### 📊 Stats
 
-![VexNode Stats](https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=dark&hide_border=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="VexNode Stats" />
+</p>
 
-![VexNode Streak](https://github-readme-streak-stats.herokuapp.com/?user=VexNode&theme=dark&hide_border=true)
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VexNode&theme=tokyonight" alt="VexNode Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=VexNode&color=green&style=flat-square&label=VISITORS)
