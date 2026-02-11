@@ -13,12 +13,10 @@
 
 ### 📊 Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=tokyonight" alt="VexNode Stats" />
-</p>
+![VexNode Stats](https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=dark&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![VexNode Streak](https://github-readme-streak-stats.herokuapp.com/?user=VexNode&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=dark&hide_border=true)
 
 ![Visitors](https://komarev.com/ghpvc/?username=VexNode&color=green&style=flat-square&label=VISITORS)
