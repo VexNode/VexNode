@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm VexNode 👋
+### Cybersecurity Enthusiast | OSINT Investigator | Developer
 
-<!--
-**VexNode/VexNode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: **Secret Projects**
+- 🛡️ Interests: **Penetration Testing, Digital Forensics**
+- ⚡ Fun fact: **Every system has a node to be vexed.**
 
-Here are some ideas to get you started:
+---
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+![VexNode's GitHub stats](https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=tokyonight)
