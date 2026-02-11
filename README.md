@@ -12,7 +12,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📊 Stats
-![VexNode's GitHub stats](https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=tokyonight)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=tokyonight" alt="VexNode Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=VexNode&color=green&style=flat-square&label=VISITORS)
