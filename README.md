@@ -19,11 +19,10 @@
 
 ---
 
-### 📊 Matrix Diagnostics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=VexNode&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexNode&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+Nodes Accessed   : ████████████████████ 100%
+Security Level   : ██████████████░░░░░  75%
+System Knowledge : Python, Bash, PHP, SQL
+Current Status   : [VEX_MODE_ACTIVE]
 
 ---
 
