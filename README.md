@@ -19,22 +19,10 @@
 
 ---
 
-# <samp>root@VexNode:~# whoami</samp>
+ <p align="left">
 
-  _   __          _   _           _      
- | | / /         | \ | |         | |     
- | |/ /  ___  __ |  \| | ___   __| | ___ 
- |    \ / _ \ \ \/ / . ` |/ _ \ / _` |/ _ \
- | |\  \  __/  >  <| |\  | (_) | (_| |  __/
- \_| \_/\___| /_/\_\_| \_/\___/ \__,_|\___|
-                                           
- [>] Status:   Analyzing Path...
- [>] Identity: Cybersecurity Enthusiast & OSINT Investigator
- [>] Mission:  Finding vulnerabilities in every node.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VexNode&theme=tokyonight" alt="VexNode Streak" />
 
----
+</p> 
 
-<p align="right">
-<samp>ACCESS_LOGS: </samp>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DVexNode%26color%3Dgreen%26style%3Dflat-square%26label%3D" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=VexNode&color=green&style=flat-square&label=VISITORS) 
