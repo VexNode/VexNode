@@ -133,6 +133,14 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
+### 🚀 **Root Access UZ**
+> **The ultimate resource for Kali Linux & Pentesting in Uzbek.**
+- **Platform:** [Telegram Community](https://t.me/root_access_uz)
+- **Tech:** Linux, Bash, Aircrack-ng, Metasploit
+- **Key Resources:** - 📂 `200+ Kali Commands Guide` (Basics to Pro)
+  - 📡 `Wireless Audit Manual` (Monitor mode, Handshake, Cracking)
+- 🔗 **[Join the Channel](https://t.me/root_access_uz)** | `Permission: Granted`
+
 ### 🛰️ **VexPathFinder ULTRA**
 > High-speed network reconnaissance and path discovery tool
 - **Tech Stack:** Python, Scapy, Threading
